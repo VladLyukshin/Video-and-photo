@@ -1,0 +1,36 @@
+h1 {
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+
+
+#start_video {
+    position: absolute;
+    top: 0%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#put {
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    bottom: 0;
+    right: 0;
+}
+
+#show {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    bottom: 0;
+    right: 0;
+}
+
+body {
+    color: white;
+}
